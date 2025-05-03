@@ -1,2 +1,3 @@
-# bill-richard-debate
-Bill Gates &amp; Richard Stallman Debate
+# Bill Gates and Richard Stallman Debate
+
+![Debate](./cover.png)

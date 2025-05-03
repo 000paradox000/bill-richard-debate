@@ -1,0 +1,4 @@
+ollama
+notebook
+langchain
+langchain-ollama
